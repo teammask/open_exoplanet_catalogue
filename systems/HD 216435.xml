@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 216435 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.26</mass>
-			<period>1311</period>
-			<semimajoraxis>2.56</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass errorminus="0.13000" errorplus="0.13000">1.26000</mass>
+			<period errorminus="49.00000000" errorplus="49.00000000">1311.00000000</period>
+			<semimajoraxis errorminus="0.170000" errorplus="0.170000">2.560000</semimajoraxis>
+			<eccentricity errorminus="0.078000" errorplus="0.078000">0.070000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/10/06</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>224.7</temperature>
-		</planet>
+		<periastron>100.0000</periastron><periastrontime errorminus="210.000000" errorplus="210.000000">2450870.000000</periastrontime></planet>
 		<name>HD 216435</name>
 		<temperature>5767.0</temperature>
 	</star>
