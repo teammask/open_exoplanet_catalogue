@@ -21,7 +21,7 @@
 			<name>KOI-2595.01</name>
 			<name>KIC 8883329 b</name>
 			<name>KIC 8883329.01</name>
-			<radius errorminus="0.02278" errorplus="0.02278">0.11756</radius>
+			<radius errorminus="0.022" errorplus="0.022">0.115</radius>
 			<period errorminus=".000096" errorplus="0.000096">9.182417</period>
 			<transittime errorminus="0.0056000" errorplus="0.0056000">2454967.0481300</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.091000</semimajoraxis><impactparameter errorminus="0.2600" errorplus="0.2600">0.6300</impactparameter></planet>
 		<planet>
 			<name>Kepler-393 c</name>
 			<name>KOI-2595 c</name>
 			<name>KOI-2595.02</name>
-			<name>KIC 8883329 c</name>
+			<name>KIC  c</name>
 			<name>KIC 8883329.02</name>
-			<radius errorminus="0.02825" errorplus="0.02825">0.12120</radius>
+			<radius errorminus="0.028" errorplus="0.028">0.119</radius>
 			<period errorminus=".000231" errorplus="0.000231">14.613612</period>
 			<transittime errorminus="0.0073600" errorplus="0.0073600">2454973.4124000</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.124000</semimajoraxis><impactparameter errorminus="0.2900" errorplus="0.2900">0.7600</impactparameter></planet>
 	</star>
 </system>
