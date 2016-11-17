@@ -22,10 +22,10 @@
 			<name>KIC 11401755 b</name>
 			<name>2MASS 19250004+4913545 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.01346359</mass>
-			<radius>0.13778</radius>
-			<period>13.83988</period>
-			<semimajoraxis>0.1151</semimajoraxis>
+			<mass errorminus="0.00100" errorplus="0.00100">0.01400</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.133</radius>
+			<period errorminus="0.00060000" errorplus="0.00082000">13.83989000</period>
+			<semimajoraxis errorminus="0.001500" errorplus="0.001500">0.115300</semimajoraxis>
 			<transittime errorminus="0.0058" errorplus="0.0055" unit="BJD">2454960.9753</transittime>
 			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 			<discoverymethod>transit</discoverymethod>
@@ -35,9 +35,9 @@
 			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
 	
 	Image credit: Harvard-Smithsonian Center for Astrophysics/David Aguilar.</imagedescription>
-			<temperature>978.8</temperature>
+			<temperature errorminus="11" errorplus="11">978</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity>0.039000</eccentricity></planet>
 		<planet>
 			<name>Kepler-36 c</name>
 			<name>KOI-277.01</name>
@@ -45,12 +45,12 @@
 			<name>KIC 11401755 c</name>
 			<name>2MASS 19250004+4913545 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.02541726</mass>
-			<radius>0.33526835</radius>
-			<period>16.23855</period>
-			<semimajoraxis>0.1283</semimajoraxis>
+			<mass errorminus="0.00100" errorplus="0.00200">0.02500</mass>
+			<radius errorminus="0.005" errorplus="0.005">0.328</radius>
+			<period errorminus="0.00054000" errorplus="0.00038000">16.23855000</period>
+			<semimajoraxis errorminus="0.001600" errorplus="0.001600">0.128300</semimajoraxis>
 			<transittime errorminus="0.0010" errorplus="0.0011" unit="BJD">2454955.9132</transittime>
-			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
+			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.EDITEDIT</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/06/22</lastupdate>
 			<discoveryyear>2012</discoveryyear>
@@ -58,8 +58,8 @@
 			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
 	
 	Image credit: Harvard-Smithsonian Center for Astrophysics/David Aguilar.</imagedescription>
-			<temperature>927.8</temperature>
+			<temperature errorminus="10" errorplus="10">928</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity>0.033000</eccentricity></planet>
 	</star>
 </system>
