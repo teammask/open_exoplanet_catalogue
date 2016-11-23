@@ -23,7 +23,7 @@
 				<name>KOI-270 b</name>
 				<name>KIC 6528464 b</name>
 				<period errorminus="0.00027" errorplus="0.00027">12.58242</period>
-				<radius errorminus="0.0062" errorplus="0.0062">0.1834</radius>
+				<radius errorminus="0.006" errorplus="0.006">0.183</radius>
 				<eccentricity errorminus="0.03" errorplus="0.28">0.03</eccentricity>
 				<transittime errorminus="0.00168" errorplus="0.00168" unit="BJD">2455008.02202</transittime>
 				<semimajoraxis errorminus="0.002" errorplus="0.002">0.105</semimajoraxis>
@@ -41,7 +41,7 @@
 				<name>KOI-270 c</name>
 				<name>KIC 6528464 c</name>
 				<period errorminus="0.0010" errorplus="0.0010">33.6727</period>
-				<radius errorminus="0.0077" errorplus="0.0077">0.2466</radius>
+				<radius errorminus="0.008" errorplus="0.008">0.247</radius>
 				<eccentricity errorminus="0.05" errorplus="0.24">0.05</eccentricity>
 				<transittime errorminus="0.00229" errorplus="0.00229" unit="BJD">2454995.03824</transittime>
 				<semimajoraxis errorminus="0.004" errorplus="0.004">0.202</semimajoraxis>
