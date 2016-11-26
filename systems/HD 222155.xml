@@ -18,15 +18,15 @@
 		<planet>
 			<name>HD 222155 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.9</mass>
-			<period>3999</period>
-			<semimajoraxis>5.1</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.53000" errorplus="0.67000">1.90000</mass>
+			<period errorminus="541.00000000" errorplus="469.00000000">3999.00000000</period>
+			<semimajoraxis errorminus="0.700000" errorplus="0.600000">5.100000</semimajoraxis>
+			<eccentricity errorminus="0.220000" errorplus="0.270000">0.160000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/05/25</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>145.2</temperature>
-		</planet>
+		<periastrontime errorminus="498.000000" errorplus="654.000000">2456319.000000</periastrontime><periastron errorminus="52.0000" errorplus="240.0000">137.0000</periastron></planet>
 		<name>HD 222155</name>
 		<temperature>5765.0</temperature>
 	</star>
