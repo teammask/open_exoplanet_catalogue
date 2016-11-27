@@ -15,26 +15,26 @@
 		<planet>
 			<name>HIP 5158 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.44</mass>
-			<period>345.63</period>
+			<mass>1.42000</mass>
+			<period errorminus="5.37000000" errorplus="5.37000000">345.72000000</period>
 			<semimajoraxis>0.89</semimajoraxis>
-			<eccentricity>0.54</eccentricity>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.520000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/05/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>168.8</temperature>
-		</planet>
+		<periastron errorminus="11.0000" errorplus="11.0000">-108.0000</periastron><periastrontime errorminus="15.210000" errorplus="15.210000">2454580.490000</periastrontime></planet>
 		<planet>
 			<name>HIP 5158 c</name>
 			<list>Confirmed planets</list>
-			<mass>15.04</mass>
-			<period>9018</period>
-			<semimajoraxis>7.7</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<mass errorminus="10.55000" errorplus="10.55000">15.04000</mass>
+			<period errorminus="3180.74000000" errorplus="3180.74000000">9017.76000000</period>
+			<semimajoraxis errorminus="1.880000" errorplus="1.880000">7.700000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.140000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/05/06</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-		</planet>
+			<discoveryyear>2011</discoveryyear>
+		<periastron errorminus="75.6300" errorplus="75.6300">142.0900</periastron></planet>
 		<name>HIP 5158</name>
 		<temperature>4962.0</temperature>
 	</star>
