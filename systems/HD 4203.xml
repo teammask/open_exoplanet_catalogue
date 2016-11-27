@@ -25,13 +25,13 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.05" errorplus="0.05">1.82</mass>
 			<period errorminus="0.27" errorplus="0.27">437.05</period>
-			<semimajoraxis errorminus="0.0222" errorplus="0.0222">1.1735</semimajoraxis>
+			<semimajoraxis errorminus="0.067" errorplus="0.067">1.164</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.52</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/03/11</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>263.9</temperature>
-		</planet>
+		<periastron errorminus="2.9" errorplus="2.9">328.03</periastron><magV>8.68</magV><periastrontime errorminus="2.38" errorplus="2.38">2451911.52</periastrontime><separation>0.015019</separation></planet>
 		<planet>
 			<name>HD 4203 c</name>
 			<name>SAO 74235 c</name>
@@ -47,7 +47,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/03/11</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<magV>8.68</magV><periastron errorminus="49.0" errorplus="49.0">224.0</periastron><periastrontime errorminus="9600.0" errorplus="9600.0">2456000.0</periastrontime></planet>
 		<name>HD 4203</name>
 		<temperature>5702.0</temperature>
 	</star>
