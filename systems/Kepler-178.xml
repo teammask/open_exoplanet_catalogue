@@ -21,7 +21,7 @@
 			<name>KOI-528.01</name>
 			<name>KIC 9941859 b</name>
 			<name>KIC 9941859.01</name>
-			<radius errorminus="0.02278" errorplus="0.11391">0.26428</radius>
+			<radius errorminus="0.112" errorplus="0.112">0.259</radius>
 			<period errorminus=".000021" errorplus="0.000021">9.576694</period>
 			<transittime errorminus="0.0012400" errorplus="0.0012400">2455009.6812700</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.085000</semimajoraxis><impactparameter errorminus="0.2300" errorplus="0.2300">0.4900</impactparameter></planet>
 		<planet>
 			<name>Kepler-178 d</name>
 			<name>KOI-528 d</name>
 			<name>KOI-528.02</name>
 			<name>KIC 9941859 d</name>
 			<name>KIC 9941859.02</name>
-			<radius errorminus="0.06379" errorplus="0.15492">0.35996</radius>
+			<radius errorminus="0.152" errorplus="0.152">0.352</radius>
 			<period errorminus=".000702" errorplus="0.000702">96.678988</period>
 			<transittime errorminus="0.0038700" errorplus="0.0038700">2454973.1784200</transittime>
 			<list>Confirmed planets</list>
@@ -46,14 +46,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.397000</semimajoraxis><impactparameter errorminus="0.3200" errorplus="0.3200">0.8700</impactparameter></planet>
 		<planet>
 			<name>Kepler-178 c</name>
 			<name>KOI-528 c</name>
 			<name>KOI-528.03</name>
 			<name>KIC 9941859 c</name>
 			<name>KIC 9941859.03</name>
-			<radius errorminus="0.02096" errorplus="0.11209">0.26246</radius>
+			<radius errorminus="0.110" errorplus="0.110">0.257</radius>
 			<period errorminus=".000066" errorplus="0.000066">20.552802</period>
 			<transittime errorminus="0.0020100" errorplus="0.0020100">2454978.0263400</transittime>
 			<list>Confirmed planets</list>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.142000</semimajoraxis><impactparameter errorminus="0.2300" errorplus="0.2300">0.3700</impactparameter></planet>
 	</star>
 </system>
