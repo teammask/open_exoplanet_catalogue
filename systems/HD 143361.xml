@@ -15,15 +15,15 @@
 		<planet>
 			<name>HD 143361 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.12</mass>
-			<period>1057</period>
+			<mass errorminus="1.44000" errorplus="1.44000">3.12000</mass>
+			<period errorminus="20.00000000" errorplus="20.00000000">1057.00000000</period>
 			<semimajoraxis>2</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
+			<eccentricity errorminus="0.170000" errorplus="0.170000">0.150000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/05/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>161.0</temperature>
-		</planet>
+		<periastrontime errorminus="147.000000" errorplus="147.000000">2453746.000000</periastrontime><periastron errorminus="55.0000" errorplus="55.0000">237.0000</periastron></planet>
 		<name>HD 143361</name>
 		<temperature>5940.0</temperature>
 	</star>
