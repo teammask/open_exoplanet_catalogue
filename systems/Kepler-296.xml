@@ -34,7 +34,7 @@
 				<semimajoraxis errorminus="0.0086" errorplus="0.0088">0.0521</semimajoraxis>
 				<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2454968.9229</transittime>
 				<inclination errorminus="0.5" errorplus="0.4">89.4</inclination>
-				<eccentricity upperlimit="0.33" />
+				<eccentricity>0.330000</eccentricity>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
 				<description>Kepler-296 Ac has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ac are still unknown, the object is highly unlikely to be a false positive. Statistical analysis indicates that all five transiting planets in the system orbit the primary star Kepler-296 A.</description>
@@ -42,7 +42,7 @@
 				<lastupdate>15/05/11</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-			</planet>
+			<impactparameter errorminus="0.1600" errorplus="0.1800">0.2500</impactparameter></planet>
 			<planet>
 				<name>Kepler-296 d</name>
 				<name>Kepler-296 Ad</name>
@@ -56,7 +56,7 @@
 				<semimajoraxis errorminus="0.020" errorplus="0.020">0.118</semimajoraxis>
 				<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2454966.6496</transittime>
 				<inclination errorminus="0.2" errorplus="0.2">89.7</inclination>
-				<eccentricity upperlimit="0.33" />
+				<eccentricity>0.330000</eccentricity>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
 				<description>Kepler-296 Ad has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ad are still unknown, the object is highly unlikely to be a false positive. Statistical analysis indicates that all five transiting planets in the system orbit the primary star Kepler-296 A.</description>
@@ -64,7 +64,7 @@
 				<lastupdate>15/05/11</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-			</planet>
+			<impactparameter errorminus="0.1600" errorplus="0.1800">0.2600</impactparameter></planet>
 			<planet>
 				<name>Kepler-296 b</name>
 				<name>Kepler-296 Ab</name>
@@ -78,7 +78,7 @@
 				<semimajoraxis errorminus="0.013" errorplus="0.013">0.079</semimajoraxis>
 				<transittime errorminus="0.0039" errorplus="0.0030">2454964.1285</transittime>
 				<inclination errorminus="0.2" errorplus="0.3">89.0</inclination>
-				<eccentricity upperlimit="0.33" />
+				<eccentricity>0.330000</eccentricity>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
 				<description>Kepler-296 Ab has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ab are still unknown, the object is highly unlikely to be a false positive. This planet was originally thought to have a period three times smaller than the actual value. Statistical analysis indicates that all five transiting planets in the system orbit the primary star Kepler-296 A.</description>
@@ -86,7 +86,7 @@
 				<lastupdate>15/05/11</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-			</planet>
+			<impactparameter errorminus="0.1900" errorplus="0.0900">0.6500</impactparameter></planet>
 			<planet>
 				<name>Kepler-296 f</name>
 				<name>Kepler-296 Af</name>
@@ -100,7 +100,7 @@
 				<semimajoraxis errorminus="0.042" errorplus="0.043">0.255</semimajoraxis>
 				<transittime errorminus="0.0072" errorplus="0.0071">2454995.6069</transittime>
 				<inclination errorminus="0.1" errorplus="0.1">89.7</inclination>
-				<eccentricity upperlimit="0.33" />
+				<eccentricity>0.330000</eccentricity>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
 				<description>Kepler-296 Af has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Af are still unknown, the object is highly unlikely to be a false positive. Statistical analysis indicates that all five transiting planets in the system orbit the primary star Kepler-296 A. This planet receives an incident flux from its host star 0.62 times that received by Earth from the Sun.</description>
@@ -108,7 +108,7 @@
 				<lastupdate>15/05/11</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-			</planet>
+			<impactparameter errorminus="0.2400" errorplus="0.1100">0.5500</impactparameter></planet>
 			<planet>
 				<name>Kepler-296 e</name>
 				<name>Kepler-296 Ae</name>
@@ -122,7 +122,7 @@
 				<semimajoraxis errorminus="0.028" errorplus="0.029">0.169</semimajoraxis>
 				<transittime errorminus="0.0057" errorplus="0.0061">2454969.0350</transittime>
 				<inclination errorminus="0.2" errorplus="0.2">89.7</inclination>
-				<eccentricity upperlimit="0.33" />
+				<eccentricity>0.330000</eccentricity>
 				<list>Planets in binary systems, S-type</list>
 				<list>Confirmed planets</list>
 				<description>Kepler-296 Ae has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ae are still unknown, the object is highly unlikely to be a false positive. Statistical analysis indicates that all five transiting planets in the system orbit the primary star Kepler-296 A. This planet receives an incident flux from its host star 1.41 times greater than that the Earth receives from the Sun.</description>
@@ -130,7 +130,7 @@
 				<lastupdate>15/05/11</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-			</planet>
+			<impactparameter errorminus="0.2100" errorplus="0.1900">0.3400</impactparameter></planet>
 		</star>
 		<star>
 			<name>Kepler-296 B</name>
