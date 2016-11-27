@@ -21,7 +21,7 @@
 			<name>KOI-497.01</name>
 			<name>KIC 4757437 c</name>
 			<name>KIC 4757437.01</name>
-			<radius errorminus="0.01914" errorplus="0.11027">0.24514</radius>
+			<radius errorminus="0.108" errorplus="0.108">0.240</radius>
 			<period errorminus=".000049" errorplus="0.000049">13.193242</period>
 			<transittime errorminus="0.0021100" errorplus="0.0021100">2455008.6093400</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.116000</semimajoraxis><impactparameter errorminus="0.2100" errorplus="0.2100">0.0200</impactparameter></planet>
 		<planet>
 			<name>Kepler-168 b</name>
 			<name>KOI-497 b</name>
 			<name>KOI-497.02</name>
 			<name>KIC 4757437 b</name>
 			<name>KIC 4757437.02</name>
-			<radius errorminus="0.06015" errorplus="0.06015">0.13305</radius>
+			<radius errorminus="0.059" errorplus="0.059">0.130</radius>
 			<period errorminus=".000033" errorplus="0.000033">4.425391</period>
 			<transittime errorminus="0.0037100" errorplus="0.0037100">2454967.5605500</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.056000</semimajoraxis><impactparameter errorminus="0.2300" errorplus="0.2300">0.1800</impactparameter></planet>
 	</star>
 </system>
