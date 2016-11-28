@@ -16,16 +16,16 @@
 		<planet>
 			<name>HD 70573 b</name>
 			<list>Controversial</list>
-			<mass>6.1</mass>
-			<period>851.8</period>
-			<semimajoraxis>1.76</semimajoraxis>
-			<eccentricity>0.4</eccentricity>
+			<mass errorminus="0.40000" errorplus="0.40000">6.10000</mass>
+			<period errorminus="11.60000000" errorplus="11.60000000">851.80000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.760000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.400000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/05/24</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>167.4</temperature>
 			<description>The planet candidate HD 70573 b was not confirmed in follow-up measurements (Soto et al. 2015).</description>
-		</planet>
+		<periastrontime errorminus="25.720000" errorplus="25.720000">2452106.540000</periastrontime><periastron errorminus="14.3000" errorplus="14.3000">269.6000</periastron></planet>
 		<name>HD 70573</name>
 		<temperature>5737.0</temperature>
 	</star>
