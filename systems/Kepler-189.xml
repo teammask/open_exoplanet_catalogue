@@ -21,7 +21,7 @@
 			<name>KOI-574.01</name>
 			<name>KIC 8355239 c</name>
 			<name>KIC 8355239.01</name>
-			<radius errorminus="0.01731" errorplus="0.10845">0.21689</radius>
+			<radius errorminus="0.106" errorplus="0.106">0.212</radius>
 			<period errorminus=".000057" errorplus="0.000057">20.134866</period>
 			<transittime errorminus="0.0015900" errorplus="0.0015900">2455004.3655200</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.2100" errorplus="0.2100">0.1300</impactparameter><semimajoraxis>0.137000</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-189 b</name>
 			<name>KOI-574 b</name>
 			<name>KOI-574.02</name>
 			<name>KIC 8355239 b</name>
 			<name>KIC 8355239.02</name>
-			<radius errorminus="0.05559" errorplus="0.05559">0.11027</radius>
+			<radius errorminus="0.054" errorplus="0.054">0.108</radius>
 			<period errorminus=".000085" errorplus="0.000085">10.399931</period>
 			<transittime errorminus="0.0043800" errorplus="0.0043800">2454974.5109200</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.2300" errorplus="0.2300">0.2300</impactparameter><semimajoraxis>0.088000</semimajoraxis></planet>
 	</star>
 </system>
