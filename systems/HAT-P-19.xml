@@ -24,8 +24,8 @@
 			<name>2MASS J00380401+3442416 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.018" errorplus="0.018">0.292</mass>
-			<radius errorminus="0.066" errorplus="0.066">1.109</radius>
-			<period errorminus="0.0000015" errorplus="0.0000015">4.0087844</period>
+			<radius errorminus="0.072" errorplus="0.072">1.132</radius>
+			<period errorminus="0.00000600" errorplus="0.00000600">4.00877800</period>
 			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0466</semimajoraxis>
 			<eccentricity errorminus="0.042" errorplus="0.042">0.067</eccentricity>
 			<inclination errorminus="0.32" errorplus="0.32">88.89</inclination>
@@ -37,6 +37,6 @@
 			<transittime errorminus="0.00011" errorplus="0.00011" unit="BJD">2455937.38839</transittime>
 			<description>HAT-P-19 b is an inflated Saturn-mass planet in a short-period orbit around a K-dwarf star. The star has a rotation period of 35.5 days and varies by 4.7 millimagnitudes in the V-band as it rotates.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.0880" errorplus="0.0610">0.4040</impactparameter></planet>
 	</star>
 </system>
