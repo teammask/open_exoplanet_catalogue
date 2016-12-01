@@ -32,13 +32,13 @@
 			<mass errorminus="1.35" errorplus="1.35" type="msini">6.37</mass>
 			<inclination>50.41</inclination>
 			<period errorminus="0.00076" errorplus="0.00077">7.78287</period>
-			<semimajoraxis errorminus="0.06" errorplus="0.05">0.066</semimajoraxis>
+			<semimajoraxis errorminus="0.006000" errorplus="0.005000">0.066000</semimajoraxis>
 			<eccentricity errorminus="0.09" errorplus="0.07">0.22</eccentricity>
 			<periastron errorminus="28" errorplus="22">262</periastron>
 			<description>The existance of planet BD+20 1790 b was proposed first in 2010. New Bayesian analysis supports the hypothesis of the planetary companion.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/23</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2010</discoveryyear>
 			<istransiting>0</istransiting>
 		</planet>
 	</star>
