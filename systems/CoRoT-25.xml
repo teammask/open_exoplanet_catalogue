@@ -32,6 +32,6 @@
 			<transittime errorminus="0.0008" errorplus="0.0008" unit="HJD">2454576.2156</transittime>
 			<lastupdate>13/05/24</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.0200" errorplus="0.0400">0.9400</impactparameter><temperature errorminus="40" errorplus="80">1330</temperature></planet>
 	</star>
 </system>
