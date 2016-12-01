@@ -16,16 +16,16 @@
 		<planet>
 			<name>HD 142245 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.9</mass>
-			<period>1299</period>
-			<semimajoraxis>2.77</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<mass errorminus="0.20000" errorplus="0.20000">1.90000</mass>
+			<period errorminus="48.00000000" errorplus="48.00000000">1299.00000000</period>
+			<semimajoraxis errorminus="0.090000" errorplus="0.090000">2.770000</semimajoraxis>
+			<eccentricity>0.090000</eccentricity>
 			<description>The star HD 142245 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/08/23</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>292.8</temperature>
-		</planet>
+		<periastron errorminus="60.0000" errorplus="60.0000">242.0000</periastron><periastrontime errorminus="240.000000" errorplus="240.000000">2454760.000000</periastrontime></planet>
 		<name>HD 142245</name>
 		<temperature>4878.0</temperature>
 	</star>
