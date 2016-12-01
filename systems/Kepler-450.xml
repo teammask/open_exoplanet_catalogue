@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-450</name>
 	<rightascension>19 41 56.76</rightascension>
-	<declination>+51 00 48.6</declination>
+	<declination>+52 00 48.6</declination>
 	<binary>
 		<name>Kepler-450</name>
 		<name>KOI-279</name>
@@ -55,7 +55,7 @@
 				<name>KOI-279.03</name>
 				<name>KOI-279 A d</name>
 				<period errorminus="0.00023" errorplus="0.00023">7.51464</period>
-				<radius errorminus="0.0061" errorplus="0.0061">0.0747</radius>
+				<radius errorminus="0.006" errorplus="0.006">0.075</radius>
 				<eccentricity errorminus="0.14" errorplus="0.24">0.14</eccentricity>
 				<transittime errorminus="0.0114" errorplus="0.0114" unit="BJD">2454969.1745</transittime>
 				<semimajoraxis errorminus="0.002" errorplus="0.002">0.083</semimajoraxis>
