@@ -47,7 +47,7 @@
 				<name>HR 5185 b</name>
 				<name>tau Boo b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.17" errorplus="0.17">6.13</mass>
+				<mass errorminus="0.04000" errorplus="0.04000">4.32000</mass>
 				<period errorminus="0.0000069" errorplus="0.0000069">3.3124568</period>
 				<semimajoraxis errorminus="0.003" errorplus="0.003">0.049</semimajoraxis>
 				<eccentricity errorminus="0.006" errorplus="0.006">0.011</eccentricity>
