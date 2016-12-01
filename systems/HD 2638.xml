@@ -43,7 +43,7 @@
 					<name>HD 2638 b</name>
 					<list>Confirmed planets</list>
 					<mass>0.48</mass>
-					<period>3.4442</period>
+					<period errorminus="0.00020000" errorplus="0.00020000">3.44420000</period>
 					<semimajoraxis>0.044</semimajoraxis>
 					<eccentricity>0.0</eccentricity>
 					<discoverymethod>RV</discoverymethod>
@@ -51,7 +51,7 @@
 					<discoveryyear>2005</discoveryyear>
 					<temperature>978.2</temperature>
 					<list>Planets in binary systems, S-type</list>
-				</planet>
+				<periastrontime errorminus="0.002000" errorplus="0.002000">2453323.206000</periastrontime><periastron>0.0000</periastron></planet>
 			</star>
 			<star>
 				<name>HD 2638 C</name>
