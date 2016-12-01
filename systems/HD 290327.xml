@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 290327 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.54</mass>
-			<period>2443</period>
-			<semimajoraxis>3.43</semimajoraxis>
-			<eccentricity>0.08</eccentricity>
+			<mass errorminus="0.14000" errorplus="0.17000">2.54000</mass>
+			<period errorminus="117.00000000" errorplus="205.00000000">2443.00000000</period>
+			<semimajoraxis errorminus="0.120000" errorplus="0.200000">3.430000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.080000">0.080000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/09/08</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>132.1</temperature>
-		</planet>
+		<periastron errorminus="19.0000" errorplus="94.0000">268.0000</periastron><periastrontime errorminus="412.000000" errorplus="230.000000">2455326.000000</periastrontime></planet>
 		<name>HD 290327</name>
 		<temperature>5552.0</temperature>
 	</star>
