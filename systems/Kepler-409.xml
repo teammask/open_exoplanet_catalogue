@@ -25,7 +25,7 @@
 			<name>KOI-1925 b</name>
 			<name>KIC 9955598 b</name>
 			<period>68.9584</period>
-			<radius errorminus="0.002734" errorplus="0.002734">0.108445</radius>
+			<radius errorminus="0.003" errorplus="0.003">0.106</radius>
 			<mass upperlimit="0.069205" />
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
@@ -33,6 +33,6 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.0100" errorplus="0.0100">0.9000</impactparameter></planet>
 	</star>
 </system>
