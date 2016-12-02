@@ -39,12 +39,12 @@
 			<mass type="msini">1.6</mass>
 			<period errorminus="15" errorplus="15">1251</period>
 			<semimajoraxis>2.6</semimajoraxis>
-			<eccentricity errorminus="0.049" errorplus="0.049">0.073</eccentricity>
-			<periastron errorminus="51" errorplus="51">210</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.19</eccentricity>
+			<periastron errorminus="40.0" errorplus="40.0">34.0</periastron>
 			<periastrontime errorminus="180" errorplus="180">2451860</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-		</planet>
+		<magH>2.04</magH><magK>2.42</magK><magV>4.79</magV><magJ>3.04</magJ><separation>0.086817</separation></planet>
 	</star>
 </system>
