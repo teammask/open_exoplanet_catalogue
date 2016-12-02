@@ -12,13 +12,13 @@
 			<name>Kepler-1233 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
+			<discoveryyear>TeamMask</discoveryyear>
 			<lastupdate>16/05/10</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000517100" errorplus="0.000517100">45.126304200</period>
 			<radius errorminus="0.035" errorplus="0.096">0.232</radius>
-		</planet>
+		<magJ>13.594</magJ><magK>13.258</magK><magH>13.316</magH></planet>
 	</star>
 </system>
