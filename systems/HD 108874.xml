@@ -18,27 +18,27 @@
 		<planet>
 			<name>HD 108874 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.36</mass>
-			<period>395.4</period>
-			<semimajoraxis>1.051</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
-			<discoverymethod>RV</discoverymethod>
+			<mass errorminus="0.13" errorplus="0.13">1.36</mass>
+			<period errorminus="2.5" errorplus="2.5">395.4</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">1.051</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.07</eccentricity>
+			<discoverymethod>TeamMask</discoverymethod>
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>256.8</temperature>
-		</planet>
+		<separation>0.015343</separation><magV>8.76</magV><periastron errorminus="36.0" errorplus="36.0">248.4</periastron><periastrontime errorminus="60.0" errorplus="60.0">60131.5</periastrontime></planet>
 		<planet>
 			<name>HD 108874 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.018</mass>
-			<period>1605.8</period>
-			<semimajoraxis>2.68</semimajoraxis>
-			<eccentricity>0.25</eccentricity>
+			<mass errorminus="0.3" errorplus="0.3">1.018</mass>
+			<period errorminus="88.0" errorplus="88.0">1605.8</period>
+			<semimajoraxis errorminus="0.25" errorplus="0.25">2.68</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.25</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>160.2</temperature>
-		</planet>
+		<separation>0.039124</separation><magV>8.76</magV><periastron errorminus="23.0" errorplus="23.0">17.3</periastron><periastrontime errorminus="180.0" errorplus="180.0">14584.8</periastrontime></planet>
 		<name>HD 108874</name>
 		<temperature>5407.0</temperature>
 	</star>
