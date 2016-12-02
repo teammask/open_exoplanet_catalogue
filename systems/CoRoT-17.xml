@@ -18,19 +18,19 @@
 			<name>CoRoT-17 b</name>
 			<name>2MASS J18344782-0636440 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.45</mass>
-			<radius>1.02</radius>
-			<period>3.768125</period>
-			<semimajoraxis>0.0461</semimajoraxis>
+			<mass errorminus="0.30000" errorplus="0.30000">2.43000</mass>
+			<radius errorminus="0.070" errorplus="0.070">1.020</radius>
+			<period errorminus="0.00030000" errorplus="0.00030000">3.76810000</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000800">0.046100</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>88.34</inclination>
 			<transittime errorminus="0.0036" errorplus="0.0036" unit="BJD">2454923.3100</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/05/11</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1486.4</temperature>
+			<discoveryyear>2011</discoveryyear>
+			<temperature errorminus="31" errorplus="31">1626</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.1600" errorplus="0.1600">0.1800</impactparameter><periastron>0.0000</periastron><periastrontime errorminus="0.003600" errorplus="0.003600">2454923.309300</periastrontime></planet>
 		<name>CoRoT-17</name>
 		<temperature>5740.0</temperature>
 	</star>
