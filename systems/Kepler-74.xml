@@ -30,19 +30,19 @@
 			<name>KOI-200.01</name>
 			<name>KIC 6046540 b</name>
 			<name>2MASS 19322220+4121198 b</name>
-			<radius errorminus="0.02" errorplus="0.02">0.96</radius>
-			<period errorminus="0.000006" errorplus="0.000006">7.340711</period>
-			<transittime errorminus="0.00014" errorplus="0.00014">2455187.56737</transittime>
-			<mass errorminus="0.12" errorplus="0.12">0.63</mass>
-			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0781</semimajoraxis>
-			<inclination errorminus="0.07" errorplus="0.07">87.46</inclination>
-			<eccentricity>0</eccentricity>
+			<radius errorminus="0.14" errorplus="0.14">1.32</radius>
+			<period errorminus="0.000001" errorplus="0.000001">7.340718</period>
+			<transittime errorminus="0.0003" errorplus="0.0003">2454967.3453</transittime>
+			<mass errorminus="0.09" errorplus="0.09">0.68</mass>
+			<semimajoraxis errorminus="0.014" errorplus="0.014">0.084</semimajoraxis>
+			<inclination errorminus="0.96" errorplus="0.96">85.55</inclination>
+			<eccentricity errorminus="0.062" errorplus="0.062">0.287</eccentricity>
 			<list>Confirmed planets</list>
 			<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. Originally announced to be in an eccentric orbit, the later re-analysis by Bonomo et al. (2015) indicated that the orbit was compatible with being circular. The planet was first announced in 2012.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>TeamMask</discoverymethod>
 			<lastupdate>15/01/27</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="21.0" errorplus="21.0">64.0</periastron><periastrontime errorminus="0.21" errorplus="0.34">2454967.04</periastrontime><magV>14.23</magV></planet>
 	</star>
 </system>
