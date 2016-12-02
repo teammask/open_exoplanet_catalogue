@@ -16,14 +16,14 @@
 			<name>HD 121504 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.22</mass>
-			<period>63.33</period>
+			<period errorminus="0.03" errorplus="0.03">63.33</period>
 			<semimajoraxis>0.33</semimajoraxis>
-			<eccentricity>0.03</eccentricity>
-			<discoverymethod>RV</discoverymethod>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.03</eccentricity>
+			<discoverymethod>TeamMask</discoverymethod>
 			<lastupdate>09/10/06</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>502.8</temperature>
-		</planet>
+		<magV>7.54</magV><periastron errorminus="12.0" errorplus="12.0">265.0</periastron><periastrontime errorminus="2.0" errorplus="2.0">51450.0</periastrontime><separation>0.007437</separation></planet>
 		<name>HD 121504</name>
 		<temperature>6075.0</temperature>
 	</star>
